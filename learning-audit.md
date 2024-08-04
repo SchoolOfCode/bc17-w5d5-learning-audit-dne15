@@ -64,3 +64,14 @@ Week 5 - Database
     pool query 🟡
     Sending SQL queries through VS Code 🟢
     Postman 🟢
+
+Learning Plan and Priorities
+
+1. Arguments vs parameters
+   I know what parameters are, not sure what arguments are or the difference. Also not sure why certain parameters have words in them. Will read up to learn the difference and see examples
+
+2. Callback Functions
+   Still not 100% confident on how a callback function works. Will read up further and ask ChatGPT for examples of when it is used
+
+3. Fetching data from API
+   Have an understanding of API's and the concept of fetching data, however not sure of the fetching process. I am currently recreating the quiz app and will try to fetch the data again on my own as felt I didn't know the exact process we used and how it worked.
