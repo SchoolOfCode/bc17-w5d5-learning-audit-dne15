@@ -67,10 +67,10 @@ Week 5 - Database
 
 Learning Plan and Priorities
 
-1. Arguments vs parameters
+1. Arguments vs parameters ✅
    I know what parameters are, not sure what arguments are or the difference. Also not sure why certain parameters have words in them. Will read up to learn the difference and see examples
 
-2. Callback Functions
+2. Callback Functions ✅
    Still not 100% confident on how a callback function works. Will read up further and ask ChatGPT for examples of when it is used
 
 3. Fetching data from API
